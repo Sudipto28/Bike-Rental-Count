@@ -16,7 +16,7 @@ library(rpart)
 library(MASS)
 
 rm(list = ls())
-setwd('C:/Users/Sudipto/Documents/Data Science/Edwisor/Project(Bike Rental Count)')
+setwd('path')
 getwd()
 
 day_data = read.csv("day.csv")
